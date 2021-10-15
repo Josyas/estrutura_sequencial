@@ -1,4 +1,4 @@
-# estrutura_sequencial
+# Estrutura sequencial
 
 <br />Lê três valores e em seguida calcula e mostra.
 <br />a) a área do triângulo retângulo que tem A por base e C por altura. 
